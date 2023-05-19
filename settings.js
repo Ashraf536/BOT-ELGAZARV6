@@ -15,7 +15,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-عالمي . المالك  = [ '249119695217‪' ] // رقم مالكك
+عالمي . المالك   = [ '249119695217‪' ] // رقم مالكك
 عالمي . ownername  =  "ASHRAF BOT ❤️"  // اسم المالك الخاص بك
 عالمي . ytname   =   "YT: ASHRAF BOT "   // اسم قناة ur yt
 عالمي . socialm  =  "GitHub: ASHRAF BOT "  // اسم جيثب أو إنستا
