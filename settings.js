@@ -15,23 +15,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['201098906252'] //ur owner number
-global.ownername = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️" //ur owner name
-global.ytname = "YT: ELGAZAR" //ur yt chanel name
-global.socialm = "GitHub: ELGAZAR" //ur github or insta name
+عالمي . المالك  = [ '249119695217‪' ] // رقم مالكك
+عالمي . ownername  =  "ASHRAF BOT ❤️"  // اسم المالك الخاص بك
+عالمي . ytname   =   "YT: ASHRAF BOT "   // اسم قناة ur yt
+عالمي . socialm  =  "GitHub: ASHRAF BOT "  // اسم جيثب أو إنستا
 global.location = "Africa, Egypt, Cairo" //ur location
 
 //bot bomdy 
-global.ownernomer = "201098906252" //ur number
-global.premium = ['201098906252'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
-global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
-global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
-global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
+عالمي . ownernomer  =  "249119695217‪"  // رقمك
+عالمي . premium  = [ '249119695217‪' ] // الرقم المميز الخاص بك
+عالمي . botname  =  '❤️ASHRAF BOT ❤️'  // اسم الروبوت الخاص بك
+عالمي . linkz  =  "https://instagram.com/shrfbdlwhb499?igshid=ZGUzMzM3NWJiOQ=="  // عنوان URL للموضوع الذي سيتم عرضه على whatsapp
+عالمي . websitex   =   "‏استعمل هذا الرابط للانضمام إلى مجموعتي في واتساب: https://chat.whatsapp.com/FcS4NiEzKZMI2enVrFGLlw"   // موقع الويب الخاص بك ليتمكن من عرضه
+عالمي . botscript  =  'https://instagram.com/shrfbdlwhb499?igshid=ZGUzMzM3NWJiOQ=='  // رابط البرنامج النصي
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+عالمي . packname   =   "⍣ASHRAF BOT "   // اسم حزمة العلامة المائية الخاصة بملصقك
+عالمي . المؤلف   =   "⍣249119695217‪⍣"   // مؤلف العلامة المائية للملصق الخاص بك
+عالمي . wm  =  "❤️ASHRAF BOT ❤️."  // العلامة المائية الخاصة بك
 
 // Other
 global.sessionName = 'session'
