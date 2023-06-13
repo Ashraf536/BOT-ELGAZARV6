@@ -16,7 +16,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 عالمي . المالك   = [ '249119695217‪' ] // رقم مالكك
-عالمي . ownername  =  "ASHRAF BOT ❤️"  // اسم المالك الخاص بك
+عالمي . ownername   =   "ASHRAF BOT "   // اسم المالك الخاص بك
 عالمي . ytname   =   "YT: ASHRAF BOT "   // اسم قناة ur yt
 عالمي . socialm  =  "GitHub: ASHRAF BOT "  // اسم جيثب أو إنستا
 global.location = "Africa, Egypt, Cairo" //ur location
@@ -24,14 +24,15 @@ global.location = "Africa, Egypt, Cairo" //ur location
 //bot bomdy 
 عالمي . ownernomer  =  "249119695217‪"  // رقمك
 عالمي . premium  = [ '249119695217‪' ] // الرقم المميز الخاص بك
-عالمي . botname  =  '❤️ASHRAF BOT ❤️'  // اسم الروبوت الخاص بك
+عالمي . botname   =   'ADASHRAF BOT '   // اسم الروبوت الخاص بك
 عالمي . linkz  =  "https://instagram.com/shrfbdlwhb499?igshid=ZGUzMzM3NWJiOQ=="  // عنوان URL للموضوع الذي سيتم عرضه على whatsapp
 عالمي . websitex   =   "‏استعمل هذا الرابط للانضمام إلى مجموعتي في واتساب: https://chat.whatsapp.com/FcS4NiEzKZMI2enVrFGLlw"   // موقع الويب الخاص بك ليتمكن من عرضه
 عالمي . botscript  =  'https://instagram.com/shrfbdlwhb499?igshid=ZGUzMzM3NWJiOQ=='  // رابط البرنامج النصي
-global.themeemoji = "♥" //ur theme emoji
+عالمي . themeemoji  =  ""  // رمز تعبيري لسمة ur
 عالمي . packname   =   "⍣ASHRAF BOT "   // اسم حزمة العلامة المائية الخاصة بملصقك
 عالمي . المؤلف   =   "⍣249119695217‪⍣"   // مؤلف العلامة المائية للملصق الخاص بك
-عالمي . wm  =  "❤️ASHRAF BOT ❤️."  // العلامة المائية الخاصة بك
+عالمي . wm    =    "ASHRAF BOT."    // "شراف بوت." // العلامة المائية الخاصة بك
+العلامة المائية الخاصة بك
 
 // Other
 global.sessionName = 'session'
